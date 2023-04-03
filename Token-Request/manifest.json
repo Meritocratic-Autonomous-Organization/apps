@@ -1,0 +1,15 @@
+{
+  "name": "Token Request Vesting",
+  "author": "MAO",
+  "description": "Requests an Organization's tokens under vesting in exchange for payment",
+  "details_url": "/meta/details.md",
+  "source_url": "",
+  "icons": [
+    {
+      "src": "/meta/icon.svg",
+      "sizes": "56x56"
+    }
+  ],
+  "start_url": "/index.html",
+  "script": "/script.js"
+}
